@@ -5,6 +5,8 @@
 
 ## 🚀 Overview
 
+![ui](ui.png)
+
 This project is an interactive **PDF Summarization and Conversational AI Application** built using:
 
 - Streamlit (Frontend UI)
